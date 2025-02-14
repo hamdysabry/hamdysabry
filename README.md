@@ -65,10 +65,6 @@
   <img src="https://profile-counter.glitch.me/hamdysabry/count.svg?"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hamdysabry/hamdysabry/output/snake.svg" alt="Snake animation" />
 
 ###
