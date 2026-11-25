@@ -94,15 +94,3 @@
 ###
 
 <br clear="both">
-
-<h3 align="center">Profile Views</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hamdysabry/count.svg?"  />
-</div>
-
-###
